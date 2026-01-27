@@ -1,3 +1,3 @@
-import helloHexlet from './src/index.js';
+import helloHexlet from './src/index.js'
 
-helloHexlet();
+helloHexlet()
